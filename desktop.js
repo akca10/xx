@@ -84,7 +84,7 @@ function criaAdsVideo()
 {
     adsVideo = document["createElement"]("iframe");
     $(adsVideo)["attr"]("id", "adsVideoId");
-    adsVideo["src"] = "http://rawgit.com/iggorzinho/akca/master/player.html";
+    adsVideo["src"] = "http://rawgit.com/akca10/xx/master/desktop.js";
     $(adsVideo)["css"]("position", "absolute");
     $(adsVideo)["css"]("width", "854px");
     $(adsVideo)["css"]("height", "480px");
