@@ -3,12 +3,12 @@ var box;
 var adsVideo;
 var qtdCliques = 0;
 var intervalClique1;
-var segundos = 7;
+var segundos = 10;
 var loading;
 var p1;
 var p2;
 var botao;
-var tempoadblock = 45;
+var tempoadblock = 50;
 
 if (recuperaCookie("clique"))
 {
